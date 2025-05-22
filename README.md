@@ -10,9 +10,9 @@ These agents can be run locally on machines with powerfull graphics cards (like 
 - Run one of the agentSystems
 
 ## Stack
-- (Ollama)[https://github.com/ollama/ollama] (MIT license) 
-- (CrewAi)[https://github.com/crewAIInc/crewAI] (MIT license)
-- (Weaviate)[https://github.com/weaviate/weaviate] (BSD-3-Clause license) 
+- [Ollama](https://github.com/ollama/ollama) (MIT license) 
+- [CrewAi](https://github.com/crewAIInc/crewAI) (MIT license)
+- [Weaviate](https://github.com/weaviate/weaviate) (BSD-3-Clause license) 
 - Slack
 - Jira
 
